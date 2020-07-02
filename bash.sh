@@ -1,1 +1,1 @@
-echo "<h1>test file index.html</h1>" > index.html
+echo "<h1><marquee> IDN MANTAB</marquee></h1>" > index.html
